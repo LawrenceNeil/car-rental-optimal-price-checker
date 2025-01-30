@@ -19,6 +19,6 @@ A command-line application that calculates the minimum cost for transporting gro
 
 2. **Setup**:
    ```bash
-   git clone https://github.com/yourusername/car-rental-optimizer.git
+   git clone https://github.com/LawrenceNeil/car-rental-optimizer.git
    cd car-rental-optimizer
    ```
